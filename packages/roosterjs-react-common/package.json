@@ -5,7 +5,7 @@
     "roosterjs-editor-plugins": ""
   },
   "peerDependencies": {
-    "office-ui-fabric-react": ">=5.9.0",
+    "@fluentui/react": "^8.110.2",
     "react": ">=15.3.2",
     "react-dom": ">=15.3.2"
  },
